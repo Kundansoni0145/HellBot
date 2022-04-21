@@ -9,7 +9,7 @@ _HELLBOT_MAIN() {
     $(_python_ 'from git import Repo
 import sys
 
-_UPSTREAM_ = "https://github.com/@kundansoni0145"
+_UPSTREAM_ = "https://github.com/kundansoni0145"
 _BRANCH_ = "master"
 
 repo = Repo.init()
